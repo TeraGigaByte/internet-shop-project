@@ -13,7 +13,7 @@
 ![Страница оформления заказа](mockups/checkout-page.drawio.png)
 
 ## Панель администратора
-![Панель администратора](mockups/admin-panel.drawio.png)
+![Панель администратора](mockups/product-page.drawio.png)
 
 ## Страница управления пользователями
 ![Страница управления пользователями](mockups/user-management.drawio.png)
