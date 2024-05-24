@@ -1,7 +1,7 @@
 # Описание GUI веб-приложения (макеты)
 
 ## Главная страница
-![Главная страница](/diagrams/mockups/main-page.drawio.png)
+![Главная страница]([/diagrams/mockups/](https://github.com/TeraGigaByte/internet-shop-project/tree/diagrams/mockups/main-page.drawio.png)
 
 ## Страница товара
 ![Страница товара](/diagrams/mockups/product-page.drawio.png)
