@@ -1,22 +1,22 @@
 # Описание GUI веб-приложения (макеты)
 
 ## Главная страница
-![Главная страница](mockups/main-page.png)
+![Главная страница](mockups/main-page.drawio.png)
 
 ## Страница товара
-![Страница товара](mockups/product-page.png)
+![Страница товара](mockups/product-page.drawio.png)
 
 ## Корзина
-![Корзина](mockups/cart-page.png)
+![Корзина](mockups/cart-page.drawio.png)
 
 ## Страница оформления заказа
-![Страница оформления заказа](mockups/checkout-page.png)
+![Страница оформления заказа](mockups/checkout-page.drawio.png)
 
 ## Панель администратора
-![Панель администратора](mockups/admin-panel.png)
+![Панель администратора](mockups/admin-panel.drawio.png)
 
 ## Страница управления пользователями
-![Страница управления пользователями](mockups/user-management.png)
+![Страница управления пользователями](mockups/user-management.drawio.png)
 
 ## Страница управления заказами
-![Страница управления заказами](mockups/order-management.png)
+![Страница управления заказами](mockups/order-management.drawio.png)
