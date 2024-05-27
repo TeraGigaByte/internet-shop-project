@@ -1,0 +1,16 @@
+@startuml
+title Диаграмма QA тестов
+
+actor Тестер
+
+rectangle Тестирование {
+  usecase "Написание тест-кейсов" as UC1
+  usecase "Запуск тестов" as UC2
+  usecase "Отчет о тестировании" as UC3
+}
+
+Тестер --> UC1
+Тестер --> UC2
+Тестер --> UC3
+
+@enduml
