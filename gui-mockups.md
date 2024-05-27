@@ -16,7 +16,7 @@
 ![Панель администратора](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/admin-panel.drawio.png)
 
 ## Страница управления пользователями
-![Страница управления пользователями](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/user-management-page.drawio.png)
+![Страница управления пользователями](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/user-management.drawio.png)
 
 ## Страница управления заказами
-![Страница управления заказами](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/order-management-page.drawio.png)
+![Страница управления заказами](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/order-management.drawio.png)
