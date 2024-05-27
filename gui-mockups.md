@@ -1,23 +1,22 @@
 # Описание GUI веб-приложения (макеты)
 
 ## Главная страница
-![Главная страница](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/mockups/main-page.drawio.png)
+![Главная страница](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/main-page.drawio.png)
 
 ## Страница товара
-![Страница товара](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/product-page.drawio.png)
+![Страница товара](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/product-page.drawio.png)
 
 ## Корзина
-![Корзина](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/cart-page.drawio.png)
+![Корзина](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/cart-page.drawio.png)
 
 ## Страница оформления заказа
-![Страница оформления заказа](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/checkout-page.drawio.png)
+![Страница оформления заказа](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/checkout-page.drawio.png)
 
 ## Панель администратора
-![Панель администратора](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/admin-panel.drawio.png)
+![Панель администратора](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/admin-panel.drawio.png)
 
 ## Страница управления пользователями
-![Страница управления пользователями](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/user-management-page.drawio.png)
+![Страница управления пользователями](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/user-management-page.drawio.png)
 
 ## Страница управления заказами
-![Страница управления заказами](https://github.com/TeraGigaByte/internet-shop-project/raw/diagrams/diagrams/mockups/order-management-page.drawio.png)
-
+![Страница управления заказами](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/order-management-page.drawio.png)
