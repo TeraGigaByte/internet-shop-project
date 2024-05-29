@@ -18,5 +18,5 @@
 ## Страница управления пользователями
 ![Страница управления пользователями](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/user-management.drawio.png)
 
-## Страница управления заказами
+## Страница управления заказами (При форс-мажорных обстоятельствах)
 ![Страница управления заказами](https://raw.githubusercontent.com/TeraGigaByte/internet-shop-project/diagrams/mockups/order-management.drawio.png)
