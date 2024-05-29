@@ -1,10 +1,3 @@
-# Use Case Diagrams
-
-## Диаграмма вариантов использования
-
-### PlantUML код
-
-```puml
 @startuml
 actor Покупатель
 actor Администратор
