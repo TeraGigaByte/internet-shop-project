@@ -1,0 +1,16 @@
+@startuml
+title Возврат товара
+
+actor Пользователь
+participant "Клиентское приложение" as ClientApp
+participant Сервер as Server
+database "База данных" as DB
+
+Пользователь -> ClientApp: Запрос на возврат
+ClientApp -> Server: Отправка данных о возврате
+Server -> DB: Сохранение данных о возврате
+DB --> Server: Подтверждение сохранения
+Server --> ClientApp: Уведомление о статусе возврата
+ClientApp --> Пользователь: Уведомление о статусе возврата
+
+@enduml
