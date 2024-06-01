@@ -1,0 +1,16 @@
+@startuml
+title Обработка отмены заказа
+
+actor Пользователь
+participant "Клиентское приложение" as ClientApp
+participant Сервер as Server
+database "База данных" as DB
+
+Пользователь -> ClientApp: Запрос на отмену
+ClientApp -> Server: Отправка данных о запросе на отмену
+Server -> DB: Сохранение данных об отмене
+DB --> Server: Подтверждение сохранения
+Server --> ClientApp: Уведомление о статусе отмены
+ClientApp --> Пользователь: Уведомление о статусе отмены
+
+@enduml
